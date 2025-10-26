@@ -1,12 +1,12 @@
 {
   "name": "Averix Docs",
   "theme": "mint",
-  "root": "docs",
   "colors": {
     "primary": "#2EE6D6"
   },
   "navigation": {
     "pages": [
+      "README",
       "ai-risk-advisor",
       "architecture",
       "branding-identity",
