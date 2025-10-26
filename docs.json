@@ -1,0 +1,31 @@
+{
+  "name": "Averix Docs",
+  "theme": "mint",
+  "root": "docs",
+  "colors": {
+    "primary": "#2EE6D6"
+  },
+  "navigation": {
+    "pages": [
+      "ai-risk-advisor",
+      "architecture",
+      "branding-identity",
+      "community-contact",
+      "copy-trading",
+      "developer-resources",
+      "economics-sustainability",
+      "ecosystem",
+      "gamification-nfts",
+      "glossary",
+      "governance",
+      "legal-compliance",
+      "overview",
+      "risk-management",
+      "roadmap",
+      "security-audits",
+      "staking",
+      "token",
+      "tokenomics"
+    ]
+  }
+}

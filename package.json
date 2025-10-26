@@ -1,0 +1,12 @@
+{
+  "name": "averix-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Averix documentation (Mintlify v4)",
+  "scripts": {
+    "dev": "mintlify dev"
+  },
+  "devDependencies": {
+    "mintlify": "^4.2.178"
+  }
+}
