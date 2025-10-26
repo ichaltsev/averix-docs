@@ -1,5 +1,6 @@
-# Staking System
-
+---
+title: Staking System
+---
 ## Tiers
 Staking TFT unlocks access/benefits. Example tiers (adjustable via governance):
 

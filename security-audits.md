@@ -1,5 +1,6 @@
-# Security & Audits
-
+---
+title: Security & Audits
+---
 ## Principles
 - Minimal trusted roles; no hidden admin backdoors.  
 - Defense in depth: audits + bounties + monitoring.

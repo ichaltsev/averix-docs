@@ -1,5 +1,6 @@
-# Governance
-
+---
+title: Governance
+---
 ## DAO Model
 Hybrid: off‑chain signaling (Snapshot‑like) with on‑chain execution. Critical operations require on‑chain voting and delay.
 

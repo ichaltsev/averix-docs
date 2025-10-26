@@ -1,5 +1,6 @@
-# Community & Contact
-
+---
+title: Community & Contact
+---
 ## Official Links (placeholders)
 - Website: https://averix.app (TBD)
 - X (Twitter): https://x.com/averix (TBD)

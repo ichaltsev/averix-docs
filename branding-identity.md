@@ -1,5 +1,6 @@
-# Branding & Identity
-
+---
+title: Branding & Identity
+---
 ## Colors
 - Primary: `#081F2C`
 - Accent: `#2EE6D6`

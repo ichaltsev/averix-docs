@@ -1,5 +1,6 @@
-# Ecosystem
-
+---
+title: Ecosystem
+---
 ## dApp Modules
 - Trading dashboard (TV integration, local pre‑checks)
 - Staking portal (tiers, boosts, cooldowns)

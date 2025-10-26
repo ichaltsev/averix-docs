@@ -1,5 +1,6 @@
-# Roadmap
-
+---
+title: Roadmap
+---
 ## Q4 2025 — Pre‑Launch
 - Public docs (this site), brand & assets
 - Testnet staking + simulated trading

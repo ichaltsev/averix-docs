@@ -1,5 +1,6 @@
-# Overview
-
+---
+title: Overview
+---
 ## Introduction
 Averix is a **decentralized prop‑trading and copy‑trading ecosystem** that merges traditional proprietary trading mechanics with Web3 tokenomics and **on‑chain risk management**. Traders access funded accounts by staking the TFT token for tiered benefits and operate in a transparent, algorithmic, and rules‑enforced environment governed by smart contracts.
 

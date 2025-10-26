@@ -1,5 +1,6 @@
-# Copy Trading & Pools
-
+---
+title: Copy Trading & Pools
+---
 ## Structure
 Copy pools accept deposits from eligible stakers and mirror trades from a **curated set of top traders** under risk limits.
 

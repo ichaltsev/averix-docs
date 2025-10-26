@@ -1,5 +1,6 @@
-# Economics & Sustainability
-
+---
+title: Economics & Sustainability
+---
 ## Value Capture
 - Protocol fees -> treasury -> buy‑back & burn / growth.  
 - Staking yields sourced from activity, not inflation alone.

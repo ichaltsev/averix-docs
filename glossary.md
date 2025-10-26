@@ -1,5 +1,6 @@
-# Glossary
-
+---
+title: Glossary
+---
 - **AIP:** Averix Improvement Proposal — a governance change proposal.
 - **DAO:** Decentralized Autonomous Organization.
 - **Exposure:** Total notional of open positions.

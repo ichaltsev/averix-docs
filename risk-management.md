@@ -1,5 +1,6 @@
-# Risk Management
-
+---
+title: Risk Management
+---
 ## Philosophy
 Capital protection and **predictable risk** are paramount. Averix encodes limits in contracts to prevent discretionary overrides.
 

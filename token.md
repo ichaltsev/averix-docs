@@ -1,5 +1,6 @@
-# TFT Token
-
+---
+title: TFT Token
+---
 ## Overview
 **TFT** powers access tiers, governance, and fee‑sharing. It is deflationary by design through protocol sinks.
 

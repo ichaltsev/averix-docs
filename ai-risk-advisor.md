@@ -1,5 +1,6 @@
-# AI Risk Advisor (Coming Soon)
-
+---
+title: AI Risk Advisor (Coming Soon)
+---
 ## Concept
 An AI layer provides **predictive risk flags** based on volatility regimes, correlation clusters, and trader behavior patterns.
 

@@ -1,5 +1,6 @@
-# Legal & Compliance
-
+---
+title: Legal & Compliance
+---
 ## Disclaimer
 Averix is a decentralized protocol. No guarantees of profits. Trading involves risk, including loss of principal.
 

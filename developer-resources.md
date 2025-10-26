@@ -1,5 +1,6 @@
-# Developer Resources
-
+---
+title: Developer Resources
+---
 ## Smart Contracts (planned)
 - `TFTToken`: ERC‑20 compliant with extensions
 - `StakingTiers`: tier proofs + cooldowns

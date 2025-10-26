@@ -1,5 +1,6 @@
-# Gamification & NFTs
-
+---
+title: Gamification & NFTs
+---
 ## Achievements
 Seasonal NFTs reflect verified on‑chain milestones:
 - Consistency streaks

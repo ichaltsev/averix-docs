@@ -1,5 +1,6 @@
-# Architecture
-
+---
+title: Architecture
+---
 ## System Overview
 Averix comprises modular smart contracts and an off‑chain execution interface. Core layers:
 - **Smart Contracts:** TFT token, staking tiers, risk engine, copy pools, governance.

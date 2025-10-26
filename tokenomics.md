@@ -1,5 +1,6 @@
-# Tokenomics
-
+---
+title: Tokenomics
+---
 ## Distribution
 ```mermaid
 pie title TFT Allocation
